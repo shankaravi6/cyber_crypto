@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Meta';
+    src: url('./assests/fonts/Metavers.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Radio';
+    src: url('./assests/fonts/RadioSpace-zZ80.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TechCharm';
+    src: url('./assests/fonts/TechnoCharmDemoVersionRegular-ALaZm.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TempApa';
+    src: url('./assests/fonts/TempestApacheTitle-1g80.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Varino';
+    src: url('./assests/fonts/VarinonormalRegular-1GXaM.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bio';
+    src: url('./assests/fonts/BionicalDemo-8MJ5A.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Drax';
+    src: url('./assests/fonts/Drexs-51Pp8.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TempApa2';
+    src: url('./assests/fonts/TempestApacheExpanded-Dl8x.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
